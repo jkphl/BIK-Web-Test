@@ -2,7 +2,7 @@
 include::include/author.adoc[]
 include::include/attributes.adoc[]
 
-== Grundlage des Prüfschritts
+== Grundlage des Prüfschritts (verändert)
 
 Grundlage des Prüfschritts ist die Tabelle A.1 im Annex A der EN 301 549
 V3.1.1.
